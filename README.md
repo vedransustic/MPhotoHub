@@ -1,2 +1,3 @@
 # MPhotoHub
 Mobile photo hub.
+The idea is simple. Create a place where people can post their mobile photos. We are looking for for all sorts of: artistic, arhitecture, nature or just something you found out while walking...
